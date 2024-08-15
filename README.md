@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
